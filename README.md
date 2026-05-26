@@ -1,4 +1,5 @@
 # Solución del Problema 3 - Fase 5 
+# Fundamentos de programación: 213022_883
 # Programa de ingeniería de sistemas UNAD 
 
 ## Auditoría de inventario y cálculo de cantidades a reabastecer
